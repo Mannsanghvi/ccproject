@@ -1,0 +1,15 @@
+{
+  "name": "basic-serverless-lambda-python",
+  "version": "1.0.0",
+  "description": "Basic CI/CD deployment setup for AWS Lambda functions in Python using the Serverless Framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jackson Yuan",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-deployment-bucket": "^1.6.0",
+    "serverless-python-requirements": "^5.4.0"
+  }
+}
